@@ -3,8 +3,8 @@ const test = (()  =>{
     console.log('el controladoor de empleados funciona')
 })
 empleados.create({
-    name:'Alvaro',
-    apep:'Esparza',
+    name:'Manuel',
+    apep:'Diaz',
     apema:'Lopez',
     age:'20'
 })

@@ -4,11 +4,11 @@ const test = (() =>{
     console.log('funciona el controlador de clientes')
 })
 clientes.create({
-    name:'Raul',
-    apep:'Orbañadoz',
-    apema:'Gonzales',
-    age:'45',
+    name:'Juanito',
+    apep:'Alcachofa',
+    apema:'Perez',
+    age:'69',
     bdc:'en buro de credito',
-    acnum:'1029384756'
+    acnum:'637787282'
 })
 export default test

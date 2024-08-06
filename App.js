@@ -22,7 +22,7 @@ mongoose.connect(process.env.url_bd)
 const App= express()
 App.use(cors())
 
-App.listen(4003,() =>{
+App.listen(4000,() =>{
     console.log('el servidor si escucha')
 })
 test_clientes()

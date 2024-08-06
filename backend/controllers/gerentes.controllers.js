@@ -3,9 +3,9 @@ const test = (()  =>{
     console.log('el controladoor de gerentes funciona')
 })
 gerentes.create({
-    name:'Alvaro',
-    apep:'Esparza',
-    apema:'Lopez',
-    age:'20'
+    name:'Gustavo',
+    apep:'Tonto',
+    apema:'Antonio',
+    age:'18'
 })
 export default test

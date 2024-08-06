@@ -4,9 +4,9 @@ const test = (() =>{
 })
 
 productos.create({
-    brand:'LG',
-    snum:'1920347',
-    dscr:'EL compresor lineal inverter exclusivo de LG hace posible que los Refrigeradores LG sean líderes de la industria en ahorro de energía, frescura, niveles de ruido, capacidad y duración.',
-    price:'28798'
+    brand:'OPPO',
+    snum:'837238',
+    dscr:'De lo mejor calidad precio',
+    price:'8000'
 })
 export default test
